@@ -37,3 +37,13 @@ deactivate
 workon
 workon env  //选择进入env的虚拟环境
 ```
+
+#### git上传命令笔记
+```
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/chengmengbao/Django_pro.git
+git push -u origin master
+//以上命令后，则输入账号密码
+```
