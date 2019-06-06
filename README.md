@@ -38,7 +38,7 @@ workon
 workon env  //选择进入env的虚拟环境
 ```
 
-#### git上传命令笔记
+#### git上传笔记或代码的命令
 ```
 git init
 git add README.md
@@ -47,3 +47,6 @@ git remote add origin https://github.com/chengmengbao/Django_pro.git
 git push -u origin master
 //以上命令后，则输入账号密码
 ```
+
+
+# 已看完第二章
